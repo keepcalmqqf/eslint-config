@@ -17,7 +17,7 @@
   "license": "MIT",
   "devDependencies": {
     "@qiuqfang/eslint-config": "*",
-    "bumpp": "^9.1.1",
+    "bumpp": "^12.0.0",
     "eslint": "^8.46.0",
     "prettier": "^3.0.1"
   },
